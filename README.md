@@ -1,4 +1,7 @@
 - [ ] a task list item
+	- [ ] a sub-task list item
+	- [ ] a 2nd sub-task list item
+	- [ ] a 3rd sub-task list item
 - [ ] list syntax required
 - [ ] normal **formatting**, @mentions, #1234 refs
 - [ ] incomplete
